@@ -1,0 +1,2 @@
+https://trueconf.ru/blog/baza-znaniy/sozdanie-sertifikata-lets-encrypt-na-windows.html
+https://letsencrypt.org/ru/getting-started/#
