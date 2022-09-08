@@ -1,3 +1,5 @@
+ВАЖНО: порт 80 должен быть открыт!
+
 N: Create new certificate (simple for IIS)
  M: Create new certificate (full options)
  R: Run scheduled renewals (0 currently due)
