@@ -1,4 +1,4 @@
-ВАЖНО: порт 80 должен быть открыт!
+ВАЖНО: порт 80 должен быть открыт! (192.168.88.251 -> 192.168.88.250)
 
 N: Create new certificate (simple for IIS)
  M: Create new certificate (full options)
